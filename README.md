@@ -30,7 +30,7 @@ Gym 4: Lvl 38 \
 Gym 5: Lvl 45 \
 Gym 6: Lvl 55 \
 Gym 7: Lvl 64 \
-Gym 8: Lvl 68 \
+Gym 8: Lvl 68 
  
 Elite Four: Lvl 78
 
